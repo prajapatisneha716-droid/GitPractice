@@ -1,2 +1,4 @@
 Hello, my name is sneha.
 I am learning Git.
+This is my second Git commit.
+I am learning Git everyday.
